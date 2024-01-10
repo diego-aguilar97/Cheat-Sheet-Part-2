@@ -1,0 +1,52 @@
+#page {
+    font-family: monospace;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+
+header {
+    text-align: center;
+    text-decoration: underline;
+    width: 500px;
+    margin: 0px auto;
+}
+
+
+.box1 {
+    width: 1200px;
+    margin: 0px auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: justify;
+}
+
+.box2 {
+    width: 1200px;
+    margin: 50px auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: justify;
+}
+
+.even {
+    background-color: lightgrey;
+}
+
+.odd {
+    background-color: lightseagreen;
+}
+
+.box1h {
+    font-family: monospace;
+    text-align: center;
+    margin-top: 50px;
+    color: lightseagreen;
+}
+
+.box2h {
+    font-family: monospace;
+    text-align: center;
+    margin-top: 50px;
+    color: lightseagreen;
+}
